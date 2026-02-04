@@ -1,2 +1,1 @@
-# satic-frontend-deepaswani
-This repository contains frontend projects built during the Satic frontend internship, showcasing daily deployed work.
+Deep Aswani - Frontend Internship
